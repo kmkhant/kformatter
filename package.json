@@ -1,6 +1,6 @@
 {
   "name": "kmformatter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert numbers to k,m... made easy",
   "main": "lib/index.js",
   "scripts": {   
