@@ -1,5 +1,5 @@
 {
-  "name": "kformatter",
+  "name": "kmformatter",
   "version": "0.0.1",
   "description": "Convert numbers to k,m... made easy",
   "main": "index.js",
