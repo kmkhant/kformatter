@@ -10,6 +10,7 @@ e.g 1234 to 1.2k, 1243215 to 1.2M
 ## Installation
 
 <hr>
+
 Using npm:
 
 `  $ npm i kmformatter`
